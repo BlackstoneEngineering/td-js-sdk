@@ -8,16 +8,16 @@
         "include":[
                     // The order here determines the order displayed in the docs.
                     "treasure.js",
-                    "plugins/track.js",
-                    "record.js",
-                    "loadClients.js",
-                    "index.js",
-                    "configurator.js",
-                    "plugins/clicks.js",
-                    "plugins/globalid.js",
-                    "plugins/personalization.js",
-                    "plugins/servercookie.js"
-                    // "plugins/consent-manager.js"
+                    // "plugins/track.js",
+                    // "record.js",
+                    // "loadClients.js",
+                    // "index.js",
+                    // "configurator.js",
+                    // "plugins/clicks.js",
+                    // "plugins/globalid.js",
+                    // "plugins/personalization.js",
+                    // "plugins/servercookie.js"
+                    "plugins/consent-manager.js"
                 ],
         // "exclude":["\\test\\"],
         // "includePattern": ".+\\.js(doc|x)?$",
